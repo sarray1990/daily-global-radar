@@ -1,0 +1,26 @@
+time_window: "last 24 hours"
+
+topics:
+  - artificial intelligence
+  - semiconductors
+  - cybersecurity
+  - space
+  - biotechnology
+  - energy technology
+  - defense technology
+  - geopolitics
+  - sanctions
+  - elections
+
+regions:
+  - United States
+  - China
+  - European Union
+  - Middle East
+  - Russia
+  - India
+
+output:
+  max_items: 10
+  format: markdown
+  require_sources: true
